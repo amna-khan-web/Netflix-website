@@ -13,6 +13,16 @@ body{
     width: 300px;
    margin-top: 40px;
 }
-.mx-auto{
-    margin-left: 100px;
+.form-floating .form-control{
+    background-color: transparent;
+}
+.form-floating .mt-3{
+    margin-left: 80px ;
+    padding: 9px 13px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.form-floating label{
+    color: black;
+    font-weight: bold;
 }
