@@ -1,0 +1,18 @@
+body{
+    background-image:url("assest/background-image.jpg");
+}
+ .text-center{
+    color: white;
+    margin-top: 70px;
+}
+.text-center h1{
+   font-size: 50px;
+   font-weight:bold;    
+}
+.form-floating{
+    width: 300px;
+   margin-top: 40px;
+}
+.mx-auto{
+    margin-left: 100px;
+}
