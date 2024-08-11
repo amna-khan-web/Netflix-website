@@ -1,5 +1,8 @@
-body{
+
+
+.header{
     background-image:url("assest/background-image.jpg");
+    padding-bottom: 30px;
 }
  .text-center{
     color: white;
@@ -24,5 +27,26 @@ body{
 }
 .form-floating label{
     color: black;
-    font-weight: bold;
+    font-weight: bold;  
+}
+ /* Main section start */
+ .main{
+    background-color: black;
+ }
+ .line {
+    border: 0; 
+    height: 8px; 
+    background-color: rgb(112, 3, 71); 
+    margin: 0px;
+ }
+.col-md-5 .heading{
+          margin-top: 80px;
+          font-size: 50px;
+          font-weight: bold;
+          color: white;
+}
+.col-md-5 p{
+    color: white;
+    font-size: 23px;
+    margin-top: 8px;
 }
